@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "bundleId": "com.ri.DynamicAppAlertsNoAppStoreUpdates",
+    "title": "App Alert",
+    "text": "Warning: There is a bud in the application and I am working on it...",
+    "confirmLabel": "OK"
+  }
+]
